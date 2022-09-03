@@ -1,0 +1,53 @@
+﻿body {
+    background-image: repeating-linear-gradient(135deg, rgb(0,0,0) 0px, rgb(0,0,0) 10px,transparent 10px, transparent 11px),repeating-linear-gradient(22.5deg, rgb(0,0,0) 0px, rgb(0,0,0) 10px,transparent 10px, transparent 11px),linear-gradient(90deg, hsl(194,74%,56%),hsl(266,74%,56%),hsl(338,74%,56%),hsl(50,74%,56%),hsl(122,74%,56%));
+}
+
+.btnLogin {
+    margin: 18px;
+    padding: 10px;
+    background-color: hsl(266,74%,56%);
+    color: white;
+    border-radius: 10px;
+    border-color: fuchsia;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#text1{
+    color: white;
+    font-family:'Yu Gothic';
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#text2 {
+    color: white;
+    font-family: 'Yu Gothic';
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#Py{
+    color: white;
+    font-family:Unispace;
+}
+.container {
+    background-color: #0D1017;
+    margin: 280px;
+    border-style: solid;
+    border-radius: 8px;
+    border-color: white;
+    text-align: center;
+    object-position: center;
+}
+#IMG{
+     
+}
+#txtUser {
+    padding: 5px;
+    border-style: solid;
+    border-radius: 6px;
+    border-color: fuchsia;
+   
+}
+#txtPass {
+    padding: 5px;
+    border-style: solid;
+    border-radius: 6px;
+    border-color: fuchsia;
+}
